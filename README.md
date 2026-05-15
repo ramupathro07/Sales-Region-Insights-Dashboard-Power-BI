@@ -1,6 +1,5 @@
 # Sales Performance Dashboard (Power BI)
 
-![Dashboard Preview](Screenshots/dashboard-preview.png)
 
 ## Project Overview
 
@@ -60,13 +59,20 @@ The dashboard transforms raw transactional data into clear, visually appealing, 
 - Real-time responsive visuals
 - Clean, modern, and user-friendly interface
 
+## Dashboard Preview
+
+![Dashboard Preview](Screenshot%202026-05-15%20070112.png)
+
 ## Project Structure
 
-Sales-Dashboard-PowerBI
-├── Sales_Dashboard.pbix
-├── Data Sources
-├── Screenshots
-└── README.md
+```
+Sales-Dashboard-PowerBI/
+├── Products-sales-regions.pbix
+├── Product-Sales-Region.xlsx
+├── Screenshot 2026-05-15 070112.png
+├── README.md
+└── Documentation/
+```
 
 
 ## How to Use
@@ -91,8 +97,8 @@ This Power BI dashboard successfully converts complex sales data into clear, act
 
 ## Connect with me
 
-- **LinkedIn**: [Your LinkedIn Link]  
-- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: [Patro Ramu](https://www.linkedin.com/in/patro-ramu-0b2587231)
+- **GitHub**: [ramupathro07](https://github.com/ramupathro07)
 
 ---
 
